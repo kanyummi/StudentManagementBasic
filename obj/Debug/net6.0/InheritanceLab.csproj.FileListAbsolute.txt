@@ -1,0 +1,15 @@
+C:\Users\zhoan\source\repos\InheritanceLab\InheritanceLab\bin\Debug\net6.0\InheritanceLab.exe
+C:\Users\zhoan\source\repos\InheritanceLab\InheritanceLab\bin\Debug\net6.0\InheritanceLab.deps.json
+C:\Users\zhoan\source\repos\InheritanceLab\InheritanceLab\bin\Debug\net6.0\InheritanceLab.runtimeconfig.json
+C:\Users\zhoan\source\repos\InheritanceLab\InheritanceLab\bin\Debug\net6.0\InheritanceLab.dll
+C:\Users\zhoan\source\repos\InheritanceLab\InheritanceLab\bin\Debug\net6.0\InheritanceLab.pdb
+C:\Users\zhoan\source\repos\InheritanceLab\InheritanceLab\obj\Debug\net6.0\InheritanceLab.csproj.AssemblyReference.cache
+C:\Users\zhoan\source\repos\InheritanceLab\InheritanceLab\obj\Debug\net6.0\InheritanceLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zhoan\source\repos\InheritanceLab\InheritanceLab\obj\Debug\net6.0\InheritanceLab.AssemblyInfoInputs.cache
+C:\Users\zhoan\source\repos\InheritanceLab\InheritanceLab\obj\Debug\net6.0\InheritanceLab.AssemblyInfo.cs
+C:\Users\zhoan\source\repos\InheritanceLab\InheritanceLab\obj\Debug\net6.0\InheritanceLab.csproj.CoreCompileInputs.cache
+C:\Users\zhoan\source\repos\InheritanceLab\InheritanceLab\obj\Debug\net6.0\InheritanceLab.dll
+C:\Users\zhoan\source\repos\InheritanceLab\InheritanceLab\obj\Debug\net6.0\refint\InheritanceLab.dll
+C:\Users\zhoan\source\repos\InheritanceLab\InheritanceLab\obj\Debug\net6.0\InheritanceLab.pdb
+C:\Users\zhoan\source\repos\InheritanceLab\InheritanceLab\obj\Debug\net6.0\InheritanceLab.genruntimeconfig.cache
+C:\Users\zhoan\source\repos\InheritanceLab\InheritanceLab\obj\Debug\net6.0\ref\InheritanceLab.dll
